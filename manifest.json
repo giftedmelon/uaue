@@ -4,10 +4,12 @@
     "version": "1.0",
     "description": "A usable accessibility extension!",
     "icons": {
-        "32": "ibu32.png"
+        "16": "pikachu16.png",
+        "48": "pikachu48.png",
+        "128": "pikachu128.png"
     },
     "action":{
-        "default_icon": "ibu32.png",
+        "default_icon": "pikachu16.png",
         "default_popup": "index.html"
     }
 }
