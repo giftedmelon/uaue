@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "uaue",
+    "version": "1.0",
+    "description": "A usable accessibility extension!",
+    "icons": {
+        "32": "ibu32.png"
+    },
+    "action":{
+        "default_icon": "ibu32.png",
+        "default_popup": "index.html"
+    }
+}
